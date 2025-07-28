@@ -3,7 +3,11 @@
 Automated secret scanning and cleanup tools for your GitHub repository using GitGuardian’s `ggshield`.  
 Includes a **scheduled secret scan workflow** and a **manual cleanup workflow** with optional history rewriting and github artifact export to get a rewritten repo.
 
-image
+<p align="center">
+  <a href="https://www.gitguardian.com/">
+    <img width="257" height="256" alt="image" src="https://github.com/user-attachments/assets/079d3811-dcc6-45b6-9ca4-36aa9d20f8ae" />
+  </a>
+</p>
 
 ---
 
